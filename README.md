@@ -30,18 +30,10 @@ Technologies Used:
 
 AI/ML: LLaMA model (or any other LLM), Hugging Face Transformers, LangChain
 
-Backend:
+Backend: Python, FastAPI/Flask
 
-Python, FastAPI/Flask
+Frontend: Streamlit 
 
-Frontend:
+Database: SQLite/PostgreSQL for storing user data
 
-Streamlit 
-
-Database:
-
-SQLite/PostgreSQL for storing user data
-
-APIs:
-
-Google
+APIs: Google
